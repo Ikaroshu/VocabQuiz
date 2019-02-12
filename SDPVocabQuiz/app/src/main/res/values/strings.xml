@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">SDPVocabQuiz</string>
+    <string-array name="seniority">
+        <item>Freshman</item>
+        <item>Sophomore</item>
+        <item>Junior</item>
+        <item>Senior</item>
+    </string-array>
+</resources>
