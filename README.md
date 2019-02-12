@@ -1,2 +1,2 @@
 # VocabQuiz
-A vocabulary quiz system that  allows creating and testing quiz on vocabulary
+A vocabulary quiz app on Android that  allows creating and testing quiz on vocabulary
